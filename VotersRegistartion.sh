@@ -10,6 +10,10 @@
 
 ###########################################################################
 
+echo "Welcome to Voter's Application"
+echo "Click here to proceed further"
+
+
 YourAge=20
 EligibleAgeToVote=18
 if[$YourAge >= $EligibleAgeToVote] then
